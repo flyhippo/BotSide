@@ -1,0 +1,8 @@
+{
+  "name": "front-bot",
+  "version": "0.0.1",
+  "description": "backbot",
+  "main": "server.js",
+  "author": "Main Inc.",
+  "license": "BSD-2-Clause"
+}
